@@ -8,7 +8,7 @@ But just as racism has not been eliminated -- the recent Black Lives
 Matter protests have shown that, while (most) explicitly racist laws are
 a thing of the past (e.g. Black Americans can now legally become
 president), systemic racism remains widespread -- the removal of
-flagrant sexist laws that blocked access to equal opportnity have not
+flagrant sexist laws that blocked access to equal opportunity have not
 eliminated subtle, institutional discrimination against women, and
 internal divides have arisen in how to address it.
 
@@ -206,7 +206,7 @@ solely on aptitude tests.
 A more modern example of this shift in technical prestige is the
 genderization of front-end development. In the early days of the
 internet, developers were expected to be full-stack. As roles grew
-specialized, web development lost prestige and became more populated by
+specialized, front-end dev lost prestige and became more populated by
 women. It also, consequently, [paid
 less](https://medium.com/@melissamcewen/is-frontend-development-sexist-220040c952b1).
 Furthermore, a
