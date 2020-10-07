@@ -106,7 +106,7 @@ their own tech milieu provides no social incentive to become a female
 nerd; instead it sends the message that women can aspire only to being
 accepted into the male nerd community.
 
-![Alt Text](/assets/images/tumblr_nob5kkcF2O1qmegh6o2_500.gif)
+![Alt Text](assets/images/tumblr_nob5kkcF2O1qmegh6o2_500.gif)
 
 Paradoxically, the rates of women enrolling in STEM programs and
 pursuing technical careers [is
