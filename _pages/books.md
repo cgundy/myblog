@@ -17,7 +17,7 @@ permalink: /books/
 
 **Permanent Record**
 *- Edward Snowden*
-<br><span style="font-size: 0.8em;">Description.</span> 
+<br><span style="font-size: 0.8em;">I find that many critics of digital surveillance and big data have difficulty precisely articulating why it's dangerous. Edward Snowden's memoir - which not only outlines his many impressive accomplishments until the age of 27 - does so in an incredibly captivating and convincing manner. The main basis of his argument is that although our data is currently not being exploited in any extremely dangerous ways (we might laugh at the irrelevant ads and Pokemon Go ploys), the fact that a permanent record of our data exists is highly concerning, as anything could be done with it in the future. He makes a powerful argument that privacy is a fundamental right that everyone should fight for. One of my favorite quotes is "Ultimately, saying that you don’t care about privacy because you have nothing to hide is no different from saying you don’t care about freedom of speech because you have nothing to say". </span> 
 
 ---
 
